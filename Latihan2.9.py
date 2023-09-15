@@ -31,6 +31,7 @@ else :
 #lalu nilai akan di print beserta keterangan di bawah ini
 print (20*"=")
 print ("GRADE NILAI MAHASIWA")
+print ("HASIL AKHIR")
 print (20*"=")
   
 print ("Nama Anda ", nama)
